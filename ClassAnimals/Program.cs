@@ -25,7 +25,7 @@ namespace ClassAnimals
         public Animals( string name, int age, float hapiness)
         {
             this.name = name;
-            this.age = age;
+            this.age = age;git remote add origin https://github.com/Rockky
             this.hapiness = hapiness;
             count++;
             Print();
